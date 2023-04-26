@@ -1,6 +1,6 @@
 ---
 widget: markdown
-widget_id: my-widget-123
+widget_id: home
 headless: true
 weight: 10
 title: Adaptation of biological systems to critical events
